@@ -6,7 +6,7 @@ import requests
 
 TOKEN = "7225103105:AAEYfhrzoWdUJJD9i17SUN8BFP3EPcoGwPE"
 CHAT_ID = "498990166"
-SYMBOLS = ["BTCUSDT", "ETHUSDT", "SOLUSDT", "AVAXUSDT"]
+SYMBOLS = ["LAYERUSDT", "ETHUSDT", "SOLUSDT", "AVAXUSDT"]
 
 async def get_signal(symbol):
     # Здесь эмуляция логики: сигнал случайный. Заменить подключением к TradingView API или Webhook позже.
